@@ -1,3 +1,4 @@
+//https://atcoder.jp/contests/abc150/tasks/abc150_b?lang=en
 #include<bits/stdc++.h>
 using namespace std;
 int main()
